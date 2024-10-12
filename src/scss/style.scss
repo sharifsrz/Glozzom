@@ -1,0 +1,22 @@
+    .navbar {
+        background: #000;
+        .nav-item {
+            padding-left: 1em;
+            .nav-link {
+                text-transform: uppercase;
+            }
+        }
+    }
+    
+    .carousel-item {
+        height: 450px;
+    }
+    .carousel-img-1{
+    background: url()
+    }
+    
+    @media(max-width: 767px) {
+        .nav-item {
+            padding-left: 0 !important;
+        }
+    }
